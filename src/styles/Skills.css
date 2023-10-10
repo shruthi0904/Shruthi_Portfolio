@@ -1,0 +1,37 @@
+.skills {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-size: 30px;
+    font-family: "Arial", sans-serif;
+  }
+  
+  .skills h1 {
+    color: #3e497a;
+  }
+  
+  .skills .list {
+    list-style: none;
+    width: 60%;
+  }
+  
+  .list span {
+    font-size: 20px;
+  }
+
+
+  @media only screen and (max-width: 870px) {
+    .skills {
+      text-align: center;
+    }
+    .list {
+      padding: 0;
+    }
+  
+    .skills h2 {
+      font-size: 30px;
+    }
+  }

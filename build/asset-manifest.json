@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1da1f56f.css",
+    "main.js": "/static/js/main.940c5fc6.js",
+    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
+    "static/media/social_media_app.png": "/static/media/social_media_app.909938066ab1b31b0832.png",
+    "static/media/nxtwatch.png": "/static/media/nxtwatch.4ace03b16c7b7e905a2d.png",
+    "static/media/shopping.png": "/static/media/shopping.b8ae2471cea4e3aeb93a.png",
+    "static/media/emojigame.png": "/static/media/emojigame.c54b69d755e66fbf77cf.png",
+    "static/media/jobby.png": "/static/media/jobby.ebab420da8b9e45cac85.png",
+    "static/media/digitaltimer.png": "/static/media/digitaltimer.8d1fe5cba9f3f75b6ce0.png",
+    "static/media/app_store.png": "/static/media/app_store.a5ce42e6638b981d60dd.png",
+    "static/media/password_manager.png": "/static/media/password_manager.e6bbac8a01077e0f9787.png",
+    "static/media/text_editor.png": "/static/media/text_editor.e77ed149db2a5b89737c.png",
+    "index.html": "/index.html",
+    "main.1da1f56f.css.map": "/static/css/main.1da1f56f.css.map",
+    "main.940c5fc6.js.map": "/static/js/main.940c5fc6.js.map",
+    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1da1f56f.css",
+    "static/js/main.940c5fc6.js"
+  ]
+}
